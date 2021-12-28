@@ -5,4 +5,4 @@ _Práctica final del **Curso de Programador – Analista Java de aplicaciones em
 
 
 ## Enunciado
-![Enunciado](https://github.com/ivanoriola/BlockAndRoll/blob/1a54d82ea1ac300f9f01087ca018a7e89ed721ef/Images/capture00.png)
+![Enunciado](https://github.com/ivanoriola/Clinica-AEPI/blob/d01c7f54cbeddb21e19d390fc34051e1f2bc2644/Enunciado.png)
